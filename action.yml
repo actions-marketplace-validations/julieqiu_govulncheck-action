@@ -1,4 +1,4 @@
-name: 'govulncheck-action'
+name: 'julieqiu-govulncheck-action'
 description: 'Run govulncheck'
 inputs:
   go-version-input:  # version of Go to use for govulncheck
